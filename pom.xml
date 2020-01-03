@@ -56,8 +56,8 @@
             <scope>provided</scope>
         </dependency>
 		<dependency>
-				<groupid><groupid>
-				<artifactid></artifactid>
+				<groupid>org.oracle.maven<groupid>
+				<artifactid>account</artifactid>
 		</dependency
         <!-- Junit dependency -->
         <dependency>
